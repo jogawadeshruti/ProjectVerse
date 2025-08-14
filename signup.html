@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global signup.css" />
+    <link rel="stylesheet" href="./signup.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;700&display=swap" />
+</head>
+<body>
+<div class="desktop-2">
+    <main class="rectangle-parent">
+        <section class="frame-child"></section>
+        <div class="frame-item"></div>
+    </main>
+    <div class="desktop-2-inner">
+        <form class="frame-parent" action="http://localhost:80/Signup/signup.php" method="post" onsubmit="return validate()">
+            <div class="frame-group">
+                <div class="sign-up-wrapper">
+                    <h1 class="sign-up">Sign Up</h1>
+                </div>
+                <div class="rectangle-group">
+                    <div class="frame-inner"></div>
+                    <img class="account-circle-icon" alt="" src="./public/account-circle.svg" />
+                    <input class="frame-input" placeholder="Enter Username" type="text" name="uname" />
+                </div>
+            </div>
+            <div class="rectangle-container">
+                <div class="rectangle-div"></div>
+                <div class="lock-parent">
+                    <img class="lock-icon" alt="" src="./public/lock.svg" />
+                    <input class="frame-child1" placeholder="Enter Password" type="password" name="upass1" />
+                </div>
+                <img class="visibility-icon" alt="" src="./public/visibility.svg" />
+            </div>
+            <div class="rl-j-ms-jro-klw-vu-x-zi-htrans-parent">
+                <div class="rl-j-ms-jro-klw-vu-x-zi-htrans">
+                    <div class="rl-j-ms-jro-klw-vu-x-zi-htrans-child"></div>
+                    <div class="lock-group">
+                        <img class="lock-icon1" alt="" src="./public/lock-1.svg" />
+                        <input class="frame-child2" placeholder="Confirm Password" type="password" name="upass2" />
+                    </div>
+                    <img class="visibility-off-icon" alt="" src="./public/visibility-off.svg" />
+                </div>
+                <div class="sign-up-as-wrapper">
+                    <div class="sign-up-as">Sign Up as</div>
+                </div>
+                <div class="frame-wrapper">
+                    <div class="frame-container">
+                        <button class="student-wrapper" onclick="document.getElementById('userType').value = 'student';" type="submit" name="submit">
+                            <div class="student">Student</div>
+                        </button>
+                        <button class="university-wrapper" onclick="document.getElementById('userType').value = 'university';" type="submit" name="submit">
+                            <div class="university">University</div>
+                        </button>
+                        <button class="sponsor-wrapper" onclick="document.getElementById('userType').value = 'sponsor';" type="submit" name="submit">
+                            <div class="sponsor">Sponsor</div>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="frame-wrapper1">
+                <div class="frame-parent1">
+                    <button class="sign-up-container">
+                        <div class="sign-up1">Sign Up</div>
+                    </button>
+                </div>
+                <div class="already-have-an-account-log-i-wrapper">
+                    <div class="already-have-an-container">
+                        <span class="already-have-an">Already have an account? </span>
+                        <span class="log-in"><a href="../Login/Login.html">Log In</a></span>
+                    </div>
+                </div>
+            </div>
+            <input type="hidden" id="userType" name="userType" value="">
+        </form>
+    </div>
+    <div class="mask-group">
+        <img class="rlj-ms2jroklw2vu9xzih-transfor-icon" alt="" src="./public/rlj-ms2jroklw2vu9xzihtransformed-1@2x.png" />
+        <img class="rlj-ms2jroklw2vu9xzih-transfor-icon1" loading="lazy" alt="" src="./public/rlj-ms2jroklw2vu9xzihtransformed-2@2x.png" />
+    </div>
+</div>
+<script>
+    function validate() {
+        pass1obj = document.getElementById("upass1");
+        pass2obj = document.getElementById("upass2");
+        if (pass1obj.value == pass2obj.value) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+</script>
+</body>
+</html>

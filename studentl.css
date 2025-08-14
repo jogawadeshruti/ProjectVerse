@@ -1,0 +1,346 @@
+.desktop-5-child {
+  position: absolute;
+  top: -597px;
+  left: 212.88px;
+  background-color: rgba(229, 115, 9, 0.69);
+  width: 993.7px;
+  height: 1532.1px;
+  transform: rotate(29.8deg);
+  transform-origin: 0 0;
+}
+.profile,
+.the-mark,
+.to-register-a {
+  position: absolute;
+  display: inline-block;
+  height: 29px;
+}
+.the-mark {
+  top: 814px;
+  left: 947px;
+  color: rgba(217, 217, 217, 0.51);
+  width: 431px;
+}
+.profile,
+.to-register-a {
+  top: 148px;
+  left: 125px;
+  color: var(--color-gray);
+  width: 127px;
+}
+.to-register-a {
+  top: 150px;
+  left: 967px;
+  color: var(--color-chocolate-100);
+  white-space: pre-wrap;
+  width: 444px;
+}
+.desktop-5-item {
+  position: absolute;
+  top: 205px;
+  left: 56px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkslategray);
+  width: 502px;
+  height: 71px;
+}
+.desktop-5-inner {
+  position: absolute;
+  top: 215px;
+  left: 464px;
+  width: 10px;
+  height: 26px;
+  overflow: hidden;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.desktop-5-child1,
+.desktop-5-child2,
+.rectangle-div {
+  position: absolute;
+  top: 315px;
+  left: 56px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkslategray);
+  width: 502px;
+  height: 71px;
+}
+.desktop-5-child1,
+.desktop-5-child2 {
+  top: 416px;
+}
+.desktop-5-child2 {
+  top: 517px;
+}
+.enter-academic-pursuitdegree,
+.enter-current-year,
+.enter-year-of,
+.student-name {
+  position: absolute;
+  top: 335px;
+  left: 119px;
+  font-weight: 200;
+  display: inline-block;
+  width: 354px;
+  height: 31px;
+}
+.enter-current-year,
+.enter-year-of,
+.student-name {
+  top: 436px;
+  left: 115px;
+  width: 379px;
+}
+.enter-year-of,
+.student-name {
+  top: 537px;
+}
+.student-name {
+  top: 225px;
+  left: 119px;
+  width: 188px;
+}
+.colorize-icon,
+.enter-project-title {
+  width: 36px;
+  position: relative;
+  height: 29px;
+}
+.enter-project-title {
+  width: 376px;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.colorize-group,
+.colorize-parent {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  width: 457px;
+  height: 71px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.colorize-group {
+  top: 110px;
+  left: 0;
+}
+.enter-required-funding {
+  width: 393px;
+  position: relative;
+  display: inline-block;
+  height: 29px;
+  flex-shrink: 0;
+}
+.colorize-container {
+  position: absolute;
+  top: 211px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  width: 457px;
+  height: 71px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.select-fileppt-to {
+  width: 393px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  height: 29px;
+  flex-shrink: 0;
+}
+.colorize-parent1,
+.frame-div {
+  position: absolute;
+  top: 312px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  width: 457px;
+  height: 71px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.colorize-parent1 {
+  top: 411px;
+}
+.colorize-parent3,
+.frame-parent {
+  position: absolute;
+  top: 205px;
+  left: 939px;
+  width: 461px;
+  height: 482px;
+  color: var(--color-chocolate-100);
+}
+.colorize-parent3 {
+  top: 717px;
+  left: 943px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  width: 457px;
+  height: 71px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.account-circle-icon,
+.account-circle-icon1 {
+  position: absolute;
+  top: 145px;
+  left: 75px;
+  width: 40px;
+  height: 40px;
+}
+.account-circle-icon1 {
+  top: 221px;
+  left: 65px;
+}
+.rlj-ms2jroklw2vu9xzih-transfor-icon,
+.rlj-ms2jroklw2vu9xzih-transfor-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 96px;
+  height: 132.8px;
+  object-fit: cover;
+}
+
+.mask-group {
+  position: absolute;
+  top: -17px;
+  left: 1315px;
+  width: 96px;
+  height: 132.8px;
+}
+.student-dashboard {
+  position: absolute;
+  top: 49px;
+  left: 141px;
+  font-size: 48px;
+  display: inline-block;
+  width: 493px;
+  height: 53px;
+}
+.colorize-icon7 {
+  position: absolute;
+  top: 337px;
+  left: 69px;
+  width: 36px;
+  height: 29px;
+}
+.colorize-icon8,
+.colorize-icon9,
+.line-icon {
+  position: absolute;
+  top: 434px;
+  left: 65px;
+  width: 36px;
+  height: 29px;
+}
+.colorize-icon9,
+.line-icon {
+  top: 535px;
+  left: 69px;
+}
+.line-icon {
+  top: 183px;
+  left: 119px;
+  width: 110px;
+  height: 2px;
+  object-fit: contain;
+}
+.line-div {
+  position: absolute;
+  top: 184.5px;
+  left: 977.5px;
+  border-top: 1px solid var(--color-chocolate-100);
+  box-sizing: border-box;
+  width: 397px;
+  height: 1px;
+}
+.upload {
+  width: 102px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  height: 23px;
+  flex-shrink: 0;
+}
+.upload-wrapper {
+  position: absolute;
+  top: 866px;
+  left: 1101px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-chocolate-100);
+  width: 141px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+}
+.view-uploaded-project {
+  width: 241px;
+  position: relative;
+  display: inline-block;
+  height: 23px;
+  flex-shrink: 0;
+}
+.view-uploaded-project-wrapper {
+  position: absolute;
+  top: 637px;
+  left: 119px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray);
+  width: 327px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url(./public/desktop--5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
